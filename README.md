@@ -24,5 +24,5 @@ Por ahora, el programa estará pensado para funcionar desde la consola. Los dato
 - GitHub, para guardar y organizar los archivos del proyecto.
 
 ## Estado del proyecto
-Actualmente, el proyecto se encuentra en la etapa de planificación. Se está organizando la estructura del sistema y definiendo cómo funcionará cada módulo antes de desarrollar el programa completo.
+Actualmente, el proyecto se encuentra en una etapa inicial de desarrollo. Ya se ha organizado la estructura de los cinco módulos y se han creado las estructuras de datos y algunas funciones básicas de validación. También se cuenta con un menú principal para mostrar cómo se organizará el sistema. Todavía falta desarrollar las operaciones necesarias para que todos los módulos funcionen de manera completa.
 
