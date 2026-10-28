@@ -2,24 +2,27 @@
 # Sistema de Gestión para una Escuela de Surf
 
 ## Descripción
-Proyecto académico que plantea el diseño de un sistema de gestión para organizar las actividades principales de una escuela de surf utilizando Go (Golang).
+Este proyecto consiste en proponer un sistema para ayudar a organizar algunas actividades de una escuela de surf. La idea es tener registrados a los alumnos, los instructores y las clases, además de poder llevar un control de las reservas y del progreso de los estudiantes.
 
 ## Objetivo
-Proponer una estructura de software que permita organizar la información de los alumnos, instructores, clases, reservas y seguimiento deportivo.
+Organizar la información de la escuela en un solo programa y aplicar los conocimientos que hemos aprendido sobre Go (Golang).
 
 ## Módulos del sistema
-- Gestión de alumnos.
-- Gestión de instructores.
-- Gestión de clases.
-- Gestión de reservas.
-- Seguimiento deportivo.
+El sistema estará dividido en cinco partes principales:
 
-## Alcance
-El sistema está planteado para funcionar desde la consola y almacenar los datos temporalmente en memoria. Esta propuesta inicial no incluye una base de datos ni una interfaz web.
+- Gestión de alumnos: registrar y consultar los datos de los estudiantes.
+- Gestión de instructores: guardar y consultar la información de los instructores.
+- Gestión de clases: organizar los horarios, niveles y cupos de cada clase.
+- Gestión de reservas: realizar y cancelar reservas, comprobando que haya cupos disponibles.
+- Seguimiento deportivo: registrar las evaluaciones y revisar el progreso de los alumnos.
 
-## Tecnologías
-- Go (Golang).
-- GitHub para el control y la organización del proyecto.
+## Alcance del proyecto
+Por ahora, el programa estará pensado para funcionar desde la consola. Los datos se guardarán temporalmente mientras el programa esté abierto, por lo que no se conservarán al cerrarlo. En esta primera propuesta no se incluirá una página web ni una base de datos.
+
+## Herramientas utilizadas
+- Go (Golang), para plantear el sistema.
+- GitHub, para guardar y organizar los archivos del proyecto.
 
 ## Estado del proyecto
-Etapa de planificación y organización de la estructura del sistema.
+Actualmente, el proyecto se encuentra en la etapa de planificación. Se está organizando la estructura del sistema y definiendo cómo funcionará cada módulo antes de desarrollar el programa completo.
+
